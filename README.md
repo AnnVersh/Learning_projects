@@ -1,5 +1,11 @@
 # Learning Projects
 
+This is the repository where I store my Python learning projects.
+
+## System Dependencies 
+* Python 3
+
+
 ## 1. Guess-the-Number Game
 
 This program is an interactive Guess-the-Number quiz where users attempt to guess a randomly generated number between 1 and 100. The program provides feedback on each guess and offers the ability to replay the game or exit at any time.
@@ -58,6 +64,7 @@ Rounds played: 3
 
 Would you like to play again? Print "YES" or "NO": NO
 Thank you for playing! Goodbye!
+```
 
 # 2. Magic Ball Program 🎱
 
@@ -91,3 +98,4 @@ Let's have a look... Most likely.
 Would you like to ask me again? Type YES or NO.
 > NO
 Thank you for the game! Don't take it too personally :) See you!
+```
